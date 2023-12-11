@@ -33,7 +33,7 @@ To get started with Kaonashi Enchanted City API Consumer, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/ethanlacerenza/Kaonashi.git`
 2. Navigate to the project directory: `cd Kaonashi`
-3. Install dependencies: `npm install`
+3. Install dependencies: `go build or run pkg`
 4. Set up your configuration by providing the necessary API keys from the magical providers.
 
 ## Usage
@@ -43,9 +43,9 @@ Once the setup is complete, you can use Kaonashi by invoking its magical powers 
 ## API Providers
 
 Kaonashi can devour API keys from various providers, including but not limited to:
-- EnchantAPI
-- MysticData
-- SorcererServices
+- Telegram
+- HIB
+- VT
 
 Feel free to add more providers and extend the magical capabilities of Kaonashi.
 
