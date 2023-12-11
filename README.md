@@ -1,5 +1,6 @@
 # Kaonashi 
-![Kaonashi](https://github.com/ethanlacerenza/Kaonashi/assets/71321892/26cfe816-9f51-409f-add4-28ee4c98f67c)
+
+![Kaonashi](https://github.com/ethanlacerenza/Kaonashi/assets/71321892/27cf56aa-187c-4c2e-bd59-c0c7a767eba8)
 
 ## Introduction
 
